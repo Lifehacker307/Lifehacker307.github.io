@@ -1,0 +1,29 @@
+{
+  "minify": true,
+  "options": [
+    "setClasses"
+  ],
+  "feature-detects": [
+    "test/applicationcache",
+    "test/audio",
+    "test/fullscreen-api",
+    "test/ie8compat",
+    "test/json",
+    "test/websockets",
+    "test/audio/webaudio",
+    "test/css/animations",
+    "test/css/fontface",
+    "test/es5/syntax",
+    "test/es6/array",
+    "test/forms/formattribute",
+    "test/forms/inputnumber-l10n",
+    "test/forms/requestautocomplete",
+    "test/forms/validation",
+    "test/network/xhr-responsetype-document",
+    "test/network/xhr-responsetype-json",
+    "test/script/async",
+    "test/script/defer",
+    "test/storage/websqldatabase",
+    "test/window/matchmedia"
+  ]
+}
